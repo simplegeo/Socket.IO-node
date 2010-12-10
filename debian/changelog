@@ -1,3 +1,9 @@
+nodejs-socketio (0.6.1-0sg3) UNRELEASED; urgency=low
+
+  * UNRELEASED
+
+ -- SimpleGeo Nerds <nerds@simplegeo.com>  Fri, 10 Dec 2010 19:20:04 +0000
+
 nodejs-socketio (0.6.1-0sg0) unstable; urgency=low
 
   * Debianized
