@@ -1,0 +1,13 @@
+Source: nodejs-socketio
+Section: misc
+Priority: extra
+Uploaders: Wade Simmons <wade@simplegeo.com>
+Maintainer: SimpleGeo Nerds <nerds@simplegeo.com>
+build-Depends: cdbs, debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: nodejs-socketio
+Depends: nodejs (>= 0.1.102), ${misc:Depends}
+Architecture: all
+Description: socket.io
+ http://github.com/LearnBoost/Socket.IO
